@@ -1,3 +1,5 @@
+![logo](https://github.com/shadu-rz/shadu-rz/blob/main/git.png)
+
 <h1 align="center">Hi 👋, I'm Mohamed Shaduli KK</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
