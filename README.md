@@ -2,7 +2,7 @@
   <img src="https://teamtweaks1-blog.s3.us-east-2.amazonaws.com/blog/wp-content/uploads/2023/09/14120619/Hire-Flutter-Developer-Banner-Image-1.jpg" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Shadhu</h1>
+<h1 align="center">Hi, I'm Shaadu</h1>
 
 <p align="center">
   📱 Flutter Developer | 🎓 BCA Student at IGNOU | 🚀 Passionate about cross-platform apps
