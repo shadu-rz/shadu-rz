@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://i.imgur.com/yW0X7sS.png](https://teamtweaks1-blog.s3.us-east-2.amazonaws.com/blog/wp-content/uploads/2023/09/14120619/Hire-Flutter-Developer-Banner-Image-1.jpg)" alt="Banner" width="100%" />
+  <img src="https://teamtweaks1-blog.s3.us-east-2.amazonaws.com/blog/wp-content/uploads/2023/09/14120619/Hire-Flutter-Developer-Banner-Image-1.jpg" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Shadhu</h1>
@@ -11,7 +11,7 @@
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shadur_rz)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shadu_rz)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-shaduli)
 
 ---
