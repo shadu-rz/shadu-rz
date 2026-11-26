@@ -7,8 +7,27 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shadu-rz&label=Profile%20views&color=02569B&style=flat" alt="profile views" />
-  <a href="https://github.com/shadu-rz?tab=followers"><img src="https://img.shields.io/github/followers/shadu-rz?label=Followers&style=flat&color=13B9FD" alt="followers" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-shaduli"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/shadu_rz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://x.com/shadu_rz"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.meridian.net.in/"><img src="https://img.shields.io/badge/Meridian%20IT-1E88E5?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shadu-rz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="180" src="https://streak-stats.demolab.com?user=shadu-rz&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,gitlab,github,figma,postman&perline=10" alt="tech stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OneSignal-E54B4D?style=flat-square&logo=onesignal&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-000000?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white" />
 </p>
 
 ---
@@ -34,26 +53,7 @@ class MohamedShaduli {
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,gitlab,github,figma,postman&perline=10" alt="tech stack" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OneSignal-E54B4D?style=for-the-badge&logo=onesignal&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shadu-rz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="180" src="https://streak-stats.demolab.com?user=shadu-rz&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shadu-rz&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="activity graph" />
@@ -61,13 +61,9 @@ class MohamedShaduli {
 
 ---
 
-## 🌐 Connect With Me
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-shaduli"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/shadu_rz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://x.com/shadu_rz"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://www.meridian.net.in/"><img src="https://img.shields.io/badge/Meridian%20IT-1E88E5?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=shadu-rz&label=Profile%20views&color=02569B&style=flat" alt="profile views" />
+  <a href="https://github.com/shadu-rz?tab=followers"><img src="https://img.shields.io/github/followers/shadu-rz?label=Followers&style=flat&color=13B9FD" alt="followers" /></a>
+  <br/>
+  <i>⭐ Thanks for stopping by!</i>
 </p>
-
-<p align="center"><i>⭐ Thanks for stopping by!</i></p>
