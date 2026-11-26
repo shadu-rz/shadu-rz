@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="440" viewBox="0 0 800 440">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="55%" stop-color="#161B22"/>
+      <stop offset="100%" stop-color="#1F2A3A"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#13B9FD" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.12"/>
+    </linearGradient>
+    <style>
+      .name { font: 800 76px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #ffffff; }
+      .role { font: 600 34px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #8B949E; }
+      .tag  { font: 700 24px 'Courier New', monospace; fill: #ffffff; }
+      .float { animation: float 6s ease-in-out infinite; }
+      @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-10px); } }
+    </style>
+  </defs>
+
+  <rect width="800" height="440" rx="24" fill="url(#bg)"/>
+  <circle class="float" cx="700" cy="80" r="95" fill="#ffffff" opacity="0.06"/>
+
+  <path d="M0 360 C 140 320, 280 400, 420 362 S 680 320, 800 366 L800 440 L0 440 Z" fill="url(#wave)"/>
+  <path d="M0 392 C 170 365, 320 425, 500 395 S 720 370, 800 398 L800 440 L0 440 Z" fill="#ffffff" opacity="0.08"/>
+
+  <g transform="translate(640 40) scale(1.15)" opacity="0.9">
+    <polygon points="60,0 90,0 30,60 15,45" fill="#54C5F8"/>
+    <polygon points="60,55 90,55 60,85 45,70" fill="#54C5F8"/>
+    <polygon points="45,70 60,85 90,115 60,115 30,85" fill="#01579B"/>
+    <polygon points="30,85 45,70 60,85 45,100" fill="#29B6F6"/>
+  </g>
+
+  <text x="56" y="140" class="name">Mohamed</text>
+  <text x="56" y="222" class="name">Shaduli</text>
+  <text x="58" y="276" class="role">Flutter Developer • Android &amp; iOS</text>
+  <rect x="58" y="300" rx="20" width="372" height="44" fill="#ffffff" opacity="0.15"/>
+  <text x="80" y="330" class="tag">&lt;/&gt;  Calicut, Kerala, India</text>
+</svg>
