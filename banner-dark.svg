@@ -25,7 +25,6 @@
 
   <!-- decorative circles -->
   <circle class="float" cx="1080" cy="70" r="90" fill="#ffffff" opacity="0.06"/>
-  <circle class="float" cx="140" cy="250" r="70" fill="#13B9FD" opacity="0.12"/>
 
 
   <!-- waves -->
