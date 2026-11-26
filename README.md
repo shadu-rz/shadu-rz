@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" width="100%" alt="Mohamed Shaduli — Flutter Developer" />
+  <img src="./banner-dark.svg" width="100%" alt="Mohamed Shaduli — Flutter Developer" />
 </p>
 
 <p align="center">
