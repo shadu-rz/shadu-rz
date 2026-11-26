@@ -1,33 +1,38 @@
+<!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://teamtweaks1-blog.s3.us-east-2.amazonaws.com/blog/wp-content/uploads/2023/09/14120619/Hire-Flutter-Developer-Banner-Image-1.jpg" alt="Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=200&section=header&text=Mohamed%20Shaduli&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Android%20%26%20iOS&descAlignY=58&descSize=18" width="100%" alt="header"/>
 </p>
 
-<h1 align="center">Hi, I'm Mohamed Shaduli</h1>
+<!-- ===================== TYPING ===================== -->
+<p align="center">
+  <a href="https://github.com/shadu-rz">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=13B9FD&center=true&vCenter=true&width=600&lines=Building+cross-platform+apps+with+Flutter+%F0%9F%92%99;REST+APIs+%E2%80%A2+Firebase+%E2%80%A2+Third-party+SDKs;Shipping+to+App+Store+%26+Play+Store+%F0%9F%9A%80;Performance+obsessed+%E2%9A%A1" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
-  📱 Flutter Developer | 🎓 BCA Student at IGNOU | 🚀 Passionate about cross-platform apps
+  <img src="https://komarev.com/ghpvc/?username=shadu-rz&label=Profile%20views&color=02569B&style=flat" alt="profile views" />
+  <a href="https://github.com/shadu-rz?tab=followers"><img src="https://img.shields.io/github/followers/shadu-rz?label=Followers&style=flat&color=13B9FD" alt="followers" /></a>
 </p>
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shadu_rz)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-shaduli)
+## 👨‍💻 About Me
 
----
+```dart
+class MohamedShaduli {
+  final String role      = "Flutter Developer";
+  final String company   = "Meridian IT Solutions";
+  final String location  = "Calicut, Kerala 🇮🇳";
+  final String education = "BCA @ IGNOU";
 
-## 💻 Tech Stack:
+  final List<String> focus = [
+    "Android & iOS App Development",
+    "REST API Integration",
+    "Third-party SDK Integration",
+    "App Store & Play Store Deployment",
+    "Performance Optimization",
+  ];
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/OneSignal-E50914?style=for-the-badge&logo=onesignal&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
-</p>
+  final String currentlyBuilding = "Track Panam — a personal finance tracker 💸";
+}
