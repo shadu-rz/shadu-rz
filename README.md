@@ -29,8 +29,6 @@ class MohamedShaduli {
     "App Store & Play Store Deployment",
     "Performance Optimization",
   ];
-
-  final String currentlyBuilding = "Track Panam — a personal finance tracker 💸";
 }
 ```
 
