@@ -37,7 +37,7 @@ class MohamedShaduli {
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,gitlab,github,figma,postman&perline=5" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,gitlab,github,figma,postman&perline=10" alt="tech stack" />
 </p>
 
 <p align="center">
@@ -51,7 +51,8 @@ class MohamedShaduli {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shadu-rz&theme=tokyonight&hide_border=true" alt="streak" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shadu-rz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="180" src="https://streak-stats.demolab.com?user=shadu-rz&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
