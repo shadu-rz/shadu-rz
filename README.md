@@ -6,13 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=13B9FD&center=true&vCenter=true&width=520&height=40&lines=Building+cross-platform+apps+with+Flutter;REST+APIs+%E2%80%A2+Firebase+%E2%80%A2+Third-party+SDKs;Shipping+to+App+Store+%26+Play+Store;Performance+obsessed" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-shaduli"><img src="https://img.shields.io/badge/LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://instagram.com/shadu_rz"><img src="https://img.shields.io/badge/Instagram-1A1B27?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>&nbsp;
-  <a href="https://x.com/shadu_rz"><img src="https://img.shields.io/badge/X-1A1B27?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>&nbsp;
-  <a href="https://www.meridian.net.in/"><img src="https://img.shields.io/badge/Meridian_IT-1A1B27?style=for-the-badge&logo=googlechrome&logoColor=13B9FD" alt="Website" /></a>
-</p>
-
 <br/>
 
 <p align="center">
@@ -21,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,gitlab,github,figma,postman&perline=10" alt="Tech stack" />
+  <img src="./tech-stack.svg" alt="Flutter, Dart, Firebase, Android Studio, VS Code, Git, GitLab, GitHub, Figma, Postman, Antigravity, Xcode, Simulator" />
 </p>
 
 <br/>
@@ -46,6 +39,15 @@ class MohamedShaduli {
 ```
 
 <br/>
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-shaduli"><img src="https://img.shields.io/badge/LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://instagram.com/shadu_rz"><img src="https://img.shields.io/badge/Instagram-1A1B27?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>&nbsp;
+  <a href="https://x.com/shadu_rz"><img src="https://img.shields.io/badge/X-1A1B27?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>&nbsp;
+  <a href="https://www.meridian.net.in/"><img src="https://img.shields.io/badge/Meridian_IT-1A1B27?style=for-the-badge&logo=googlechrome&logoColor=13B9FD" alt="Website" /></a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shadu-rz&label=Profile%20views&color=1A1B27&style=flat-square" alt="Profile views" />
