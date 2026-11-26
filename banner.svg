@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0B1E3F"/>
-      <stop offset="55%" stop-color="#02569B"/>
-      <stop offset="100%" stop-color="#13B9FD"/>
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="55%" stop-color="#161B22"/>
+      <stop offset="100%" stop-color="#1F2A3A"/>
     </linearGradient>
     <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#13B9FD" stop-opacity="0.35"/>
+      <stop offset="0%" stop-color="#13B9FD" stop-opacity="0.25"/>
       <stop offset="100%" stop-color="#ffffff" stop-opacity="0.12"/>
     </linearGradient>
     <style>
       .name { font: 800 64px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #ffffff; }
-      .role { font: 500 24px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #CDEBFF; letter-spacing: 1px; }
+      .role { font: 500 24px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #8B949E; letter-spacing: 1px; }
       .tag  { font: 600 15px 'Courier New', monospace; fill: #ffffff; }
       .fade { animation: fade 1.2s ease-out both; }
       .fade2 { animation: fade 1.2s ease-out 0.4s both; }
